@@ -100,16 +100,14 @@ function Navbar() {
             : 'bg-transparent py-5'
         }`}
       >
-        <div className="max-w-7xl mx-auto flex items-center justify-between px-4 sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto flex items-center justify-between px-4 sm:px-6 lg:px-6">
           
           {/* Logo */}
           <a 
             href="/" 
             className="group flex items-center gap-2"
           >
-            <div className="w-10 h-10 bg-gradient-to-br from-teal-500 to-teal-700 rounded-xl flex items-center justify-center shadow-lg shadow-teal-600/20 group-hover:shadow-teal-600/40 transition-all duration-300 group-hover:scale-105">
-              <Sparkles className="w-5 h-5 text-white" />
-            </div>
+            
             <span className="text-xl sm:text-2xl lg:text-3xl font-bold bg-gradient-to-r from-teal-700 to-teal-500 bg-clip-text text-transparent">
               Faceyoguez
             </span>
