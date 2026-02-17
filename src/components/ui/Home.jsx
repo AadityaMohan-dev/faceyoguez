@@ -114,8 +114,8 @@ function Home() {
                             xl:w-[420px] xl:h-[420px]
                             rounded-full overflow-hidden shadow-2xl shadow-amber-900/30">
               <img
-                src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=800&auto=format&fit=crop"
-                alt="Face yoga demonstration"
+                // src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=800&auto=format&fit=crop"
+                // alt="Face yoga demonstration"
                 className="w-full h-full object-cover transition-transform duration-700 hover:scale-110"
               />
               {/* Overlay Gradient */}
@@ -231,7 +231,7 @@ function Home() {
                               lg:w-80 lg:h-80 
                               rounded-full overflow-hidden shadow-2xl shadow-amber-900/30 z-10">
                 <img
-                  src="https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?q=80&w=800&auto=format&fit=crop"
+                  // src="https://images.unsplash.com/photo-1616394584738-fc6e612e71b9?q=80&w=800&auto=format&fit=crop"
                   alt="Face yoga benefits"
                   className="w-full h-full object-cover transition-transform duration-700 hover:scale-110"
                 />
